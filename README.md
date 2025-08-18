@@ -3,7 +3,7 @@
 **Disciplina:** Ferramentas de Inteligência Artificial  
 **Algoritmo Principal:** Ensemble Learning (Random Forest + XGBoost + Deep Learning)  
 **Dataset:** Olist E-commerce (Brazilian E-Commerce Public Dataset)  
-**Alunos:** [Seus nomes aqui]
+**Alunos:** Lucas Aniceto e Rodrigo Santos
 
 ---
 
